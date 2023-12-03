@@ -15,3 +15,9 @@ A modpack for [Lethal Company](https://store.steampowered.com/app/1966720/Lethal
 - [LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)
 - [ItemQuickSwitch](https://thunderstore.io/c/lethal-company/p/vasanex/ItemQuickSwitch/)
 - [TheBakiSkin](https://thunderstore.io/c/lethal-company/p/bakivaki/TheBakiSkin/)
+
+## Exporting
+To export mod files to zip (after cloning repository):
+`git archive --format=zip --output C:\Users\Chandler\Downloads\baki-modpack-[version].zip main`
+
+**Make sure** to delete the `.gitignore` and `README.md` files from the zip file.
