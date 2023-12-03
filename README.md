@@ -1,4 +1,7 @@
 # baki-modpack
+A modpack for [Lethal Company](https://store.steampowered.com/app/1966720/Lethal_Company/).
+
+**See Releases for downloads.**
 
 ## Mods
 - [LC_API](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)
