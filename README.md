@@ -23,6 +23,6 @@ A modpack for [Lethal Company](https://store.steampowered.com/app/1966720/Lethal
 
 ## Exporting
 To export mod files to zip (after cloning repository):
-`git archive --format=zip --output C:\Users\Chandler\Downloads\baki-modpack-[version].zip main`
+`git archive --format=zip --output %userprofile%\Downloads\baki-modpack-[version].zip main`
 
 **Make sure** to delete the `.gitignore` and `README.md` files from the zip file.
