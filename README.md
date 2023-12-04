@@ -19,7 +19,7 @@ A modpack for [Lethal Company](https://store.steampowered.com/app/1966720/Lethal
 | [LethalFashion](https://thunderstore.io/c/lethal-company/p/BatTeam/LethalFashion/) | 1.0.3 | 🟢 |
 | [LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/) | 1.0.4 | 🟢 |
 | [ItemQuickSwitch](https://thunderstore.io/c/lethal-company/p/vasanex/ItemQuickSwitch/) | 1.1.0 | 🟢 |
-| [TheBakiSkin](https://thunderstore.io/c/lethal-company/p/bakivaki/TheBakiSkin/) | 1.0.2 | 🟢 |
+| [TheBakiSkin](https://thunderstore.io/c/lethal-company/p/bakivaki/TheBakiSkin/) | 1.0.3 | 🟢 |
 
 ## Exporting
 To export mod files to zip (after cloning repository):
